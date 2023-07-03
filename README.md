@@ -20,7 +20,7 @@
 ## Проекты :mortar_board:
 
 <p> Проект 1: Тест кабинета учителя в приложении Skyeng</p>
- <p><em><strong>Что нужно было сделать</em></strong></p>
+ <p><em><strong>Что нужно было сделать:</em></strong></p>
 <ol>
   <li><em>Этап №1.</em> <br>
     1. Создание приёмочных тест-кейсов - (https://app.qase.io/project/KW?case=3&previewMode=side&suite=1) <br>
@@ -40,7 +40,7 @@
   </li>
 </ol>
 
-<p><em><strong>Как решала(-а): краткое описание решения (автореферат)</em></strong><p>
+<p><em><strong>Как решала(-а): краткое описание решения (автореферат):</em></strong><p>
 
 >  <a href="https://vlad1337islav.atlassian.net/wiki/spaces/~638c33dff6c85b343c0c6bcc/pages/1212417/1+2">Ссылка на проект</a>
  
