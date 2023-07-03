@@ -5,9 +5,6 @@
 
 ## Обо мне :wink: 
 
-<img src="https://pa1.narvii.com/7446/9f8a6f798ba73c14efc81d374004d266739c4909r1-400-50_hq.gif" height="32" width="1000"> 
-
-
 Начинающий тестировщик. <br> Я из Республики Бурятия (Россия), живу в Улан-Удэ. Бурятия - один из наиболее интересных регионов Восточной Сибири, место, где огромные природные просторы, горы, степи, леса и озеро Байкал.  <br>
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 <br>
@@ -67,4 +64,4 @@
 - :tv: YouTube: https://www.youtube.com/channel/UCJ9eDG_k4WJFhO74b9Tue0w
 - :space_invader: Discord: https://discord.gg/cRkRfJRW
 
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/932686206009602661/8B652DD83D6B5E9A2BA292104950E3B171FD257E/?imw=512&amp;imh=234&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true" height="32" width="1000"> 
+<img src="https://pa1.narvii.com/7446/9f8a6f798ba73c14efc81d374004d266739c4909r1-400-50_hq.gif" height="32" width="1000"> 
