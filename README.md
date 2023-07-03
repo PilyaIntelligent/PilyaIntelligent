@@ -5,7 +5,7 @@
 
 ## Обо мне :wink: 
 
-<img src="https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif" width="50"> 
+<img src="https://i.pinimg.com/originals/49/e7/6e/49e76e0596857673c5c80c85b84394c1.gif" width="100"> 
 Начинающий тестировщик. <br> Я из Республики Бурятия (Россия), живу в Улан-Удэ. Бурятия - один из наиболее интересных регионов Восточной Сибири, место, где огромные природные просторы, горы, степи, леса и озеро Байкал.  <br>
 В этом репозитории вы можете найти некоторые из моих проектов, выполненных во время обучения и практики.
 <br>
@@ -15,7 +15,6 @@
 ``Jira``,``qase.io``,``Sitechco``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``Trello``, <br>
 ``SoapUI``, ``Charles``, ``Git``, ``Chrome DevTools``, ``JIRA``, ``Confluence``, ``miro``.
 
-<img src="https://tenor.com/ru/view/rainbow-line-gif-gif-14870978" width="50">
 
 ## Проекты :mortar_board:
 
