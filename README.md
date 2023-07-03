@@ -22,7 +22,7 @@
 <p> Проект 1: Тест кабинета учителя в приложении Skyeng</p>
  <p><em><strong>Что нужно было сделать</em></strong></p>
 <ol>
-  <li>Этап №1. <br>
+  <li><em>Этап №1.</em> <br>
     1. Создание приёмочных тест-кейсов - (https://app.qase.io/project/KW?case=3&previewMode=side&suite=1) <br>
     2. Тестирование требований <br>
     3. Составление декомпозиции продукта - (https://miro.com/app/board/uXjVPmCjeDo=/) <br>
