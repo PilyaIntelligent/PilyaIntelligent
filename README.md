@@ -23,7 +23,6 @@
 
 ## Контактная информация :speaker:
 
-<a href="https://www.drupal.org/" title="Drupal"><img src="icons/drupal.png" /></a>
-- Email: parker071098@mail.com
-- LinkedIn: *
-- Личный сайт: *
+- :mailbox: Email: parker071098@mail.com
+- :tv: YouTube: https://www.youtube.com/channel/UCJ9eDG_k4WJFhO74b9Tue0w
+- :space_invader: Discord: https://discord.gg/cRkRfJRW
