@@ -14,7 +14,7 @@
 ``Jira``,``qase.io``,``Sitechco``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``Trello``, <br>
 ``SoapUI``, ``Charles``, ``Git``, ``Chrome DevTools``, ``JIRA``, ``Confluence``, ``miro``.
 
-
+<div class="tenor-gif-embed" data-postid="14870978" data-share-method="host" data-aspect-ratio="53.335" data-width="100%"><a href="https://tenor.com/view/rainbow-line-gif-gif-14870978">Rainbow Line GIF</a>from <a href="https://tenor.com/search/rainbow-gifs">Rainbow GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 
 ## Проекты :mortar_board:
