@@ -6,7 +6,6 @@
 ## Обо мне :wink: 
 
 <img src="https://pa1.narvii.com/7446/9f8a6f798ba73c14efc81d374004d266739c4909r1-400-50_hq.gif" width="1000"> 
-<img src="https://wiki.soiro.ru/images/Nyan-cat-png-transparent-images-175332-9145060.gif" width="1000"> 
 
 
 Начинающий тестировщик. <br> Я из Республики Бурятия (Россия), живу в Улан-Удэ. Бурятия - один из наиболее интересных регионов Восточной Сибири, место, где огромные природные просторы, горы, степи, леса и озеро Байкал.  <br>
@@ -67,3 +66,5 @@
 - :mailbox: Email: parker071098@mail.com
 - :tv: YouTube: https://www.youtube.com/channel/UCJ9eDG_k4WJFhO74b9Tue0w
 - :space_invader: Discord: https://discord.gg/cRkRfJRW
+
+  <img src="https://wiki.soiro.ru/images/Nyan-cat-png-transparent-images-175332-9145060.gif"> 
