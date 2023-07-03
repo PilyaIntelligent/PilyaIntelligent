@@ -23,11 +23,6 @@
 
 ## Контактная информация :speaker:
 
-[![GitHub](icons/github.png)](https://github.com/PilyaIntelligent)
-//[![GitLab](icons/gitlab.png)]() //
-[![YouTube](icons/youtube.png)](https://www.youtube.com/channel/UCJ9eDG_k4WJFhO74b9Tue0w)
-[![Instagram](/all/instagram.png)](https://www.youtube.com/channel/UCJ9eDG_k4WJFhO74b9Tue0w)
-
 <a href="https://www.drupal.org/" title="Drupal"><img src="icons/drupal.png" /></a>
 - Email: parker071098@mail.com
 - LinkedIn: *
