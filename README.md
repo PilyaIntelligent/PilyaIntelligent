@@ -11,7 +11,7 @@
 
 ## Навыки и технологии :computer:
 
-  <img align="right" src="https://lifeo.ru/wp-content/uploads/gif-salyut-6.gif" height="50" width="50">
+  <img align="right" src="https://lifeo.ru/wp-content/uploads/gif-salyut-6.gif" height="150" width="150">
   
  ``Jira``,``qase.io``,``Sitechco``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``Trello``, <br>
  ``SoapUI``, ``Charles``, ``Git``, ``Chrome DevTools``, ``JIRA``, ``Confluence``, ``miro``.
