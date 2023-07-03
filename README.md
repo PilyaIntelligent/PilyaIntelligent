@@ -67,4 +67,4 @@
 - :tv: YouTube: https://www.youtube.com/channel/UCJ9eDG_k4WJFhO74b9Tue0w
 - :space_invader: Discord: https://discord.gg/cRkRfJRW
 
-  <img src="https://wiki.soiro.ru/images/Nyan-cat-png-transparent-images-175332-9145060.gif"> 
+  <img src="https://steamuserimages-a.akamaihd.net/ugc/932686206009602661/8B652DD83D6B5E9A2BA292104950E3B171FD257E/?imw=512&amp;imh=234&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=true"> 
