@@ -1,5 +1,5 @@
 # Портфолио: инженер по тестированию
-<h1 align="center">Всем привет, меня зовут <a href="https://daniilshat.ru/" target="_blank">Владислав</a> 
+<h1 align="center">Всем привет, меня зовут <a href="" target="_blank">Владислав</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center"></h3>
 
