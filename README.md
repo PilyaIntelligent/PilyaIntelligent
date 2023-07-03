@@ -20,7 +20,7 @@
 ## Проекты :mortar_board:
 
 <p> Проект 1: Тест кабинета учителя в приложении Skyeng</p>
- ***Что нужно было сделать***
+ <p><em><strong>Что нужно было сделать</em></strong></p>
 <ol>
   <li>Этап №1. <br>
     1. Создание приёмочных тест-кейсов - (https://app.qase.io/project/KW?case=3&previewMode=side&suite=1) <br>
