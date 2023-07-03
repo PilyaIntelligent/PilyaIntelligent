@@ -11,10 +11,10 @@
 
 ## Навыки и технологии :computer:
 
+<img align="right" src="https://lifeo.ru/wp-content/uploads/gif-salyut-6.gif">
+
 ``Jira``,``qase.io``,``Sitechco``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``Trello``, <br>
 ``SoapUI``, ``Charles``, ``Git``, ``Chrome DevTools``, ``JIRA``, ``Confluence``, ``miro``.
-
-<img src="https://lifeo.ru/wp-content/uploads/gif-salyut-6.gif">
 
 ## Проекты :mortar_board:
 
