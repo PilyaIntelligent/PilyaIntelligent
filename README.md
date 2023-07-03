@@ -14,6 +14,7 @@
 ``Jira``,``qase.io``,``Sitechco``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``Trello``, <br>
 ``SoapUI``, ``Charles``, ``Git``, ``Chrome DevTools``, ``JIRA``, ``Confluence``, ``miro``.
 
+<img src="https://lifeo.ru/wp-content/uploads/gif-salyut-6.gif">
 
 ## Проекты :mortar_board:
 
@@ -64,5 +65,4 @@
 - :tv: YouTube: https://www.youtube.com/channel/UCJ9eDG_k4WJFhO74b9Tue0w
 - :space_invader: Discord: https://discord.gg/cRkRfJRW
 
-<img src="https://lifeo.ru/wp-content/uploads/gif-salyut-6.gif">
 <img src="https://pa1.narvii.com/7446/9f8a6f798ba73c14efc81d374004d266739c4909r1-400-50_hq.gif" height="32" width="1000"> 
