@@ -12,12 +12,14 @@
 ## Навыки и технологии :computer:
 
 <p>
-  <img align="right" src="https://lifeo.ru/wp-content/uploads/gif-salyut-6.gif">
+   <img align="right" src="https://lifeo.ru/wp-content/uploads/gif-salyut-6.gif">
  
  ``Jira``,``qase.io``,``Sitechco``,``SQL``,`` Postman``,``Fiddler``, ``Swagger``, ``Trello``, <br>
  ``SoapUI``, ``Charles``, ``Git``, ``Chrome DevTools``, ``JIRA``, ``Confluence``, ``miro``.
-</p>
 
+
+</p>
+ 
 ## Проекты :mortar_board:
 
 <p> Проект 1: Тест кабинета учителя в приложении Skyeng</p>
